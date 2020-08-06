@@ -42,7 +42,7 @@ The Dataset of AEE was used on my final CNN multi-class Classifer with a final s
 
 ----
 
-## Conclusion and Recommendations¶
+## Conclusion and Recommendations
 
 While all data points to heavy usage of Apps in the App Store, when browsing through the store, we see only a fraction of user reviews coupled with very skewed ratings. This shows users not leaving their reviews and misrepresentation of ratings due to many reasons.
 
