@@ -82,11 +82,14 @@ For GENKI-4K:
 http://mplab.ucsd.edu, The MPLab GENKI-4K Dataset.
 
 #### Other References:
+
 Apple's App Store ecosystem facilitated over half a trillion dollars in commerce in 2019. (2020, July 15). Retrieved August 06, 2020, from https://www.apple.com/newsroom/2020/06/apples-app-store-ecosystem-facilitated-over-half-a-trillion-dollars-in-commerce-in-2019/
 
 E-Conomy SEA 2018: Southeast Asia's internet economy hits an inflection point. (n.d.). Retrieved August 06, 2020, from https://www.thinkwithgoogle.com/intl/en-apac/tools-resources/research-studies/e-conomy-sea-2018-southeast-asias-internet-economy-hits-inflection-point/
 
-Grab Celebrates Fifth Anniversary and Significant User Milestones. (2017, September 07). Retrieved August 06, 2020, from https://www.grab.com/sg/press/business/grab-celebrates-fifth-anniversary-significant-user-milestones/ Lazada and Shopee, top e-commerce mobile shopping apps in Southeast Asia, according to market survey by iPrice Group and App Annie. (2019, May 15). Retrieved August 06, 2020, from https://www.onlinecitizenasia.com/2019/05/15/lazada-and-shopee-top-e-commerce-mobile-shopping-apps-in-southeast-asia-according-to-market-survey-by-iprice-group-and-app-annie/
+Grab Celebrates Fifth Anniversary and Significant User Milestones. (2017, September 07). Retrieved August 06, 2020, from https://www.grab.com/sg/press/business/grab-celebrates-fifth-anniversary-significant-user-milestones/ 
+
+Lazada and Shopee, top e-commerce mobile shopping apps in Southeast Asia, according to market survey by iPrice Group and App Annie. (2019, May 15). Retrieved August 06, 2020, from https://www.onlinecitizenasia.com/2019/05/15/lazada-and-shopee-top-e-commerce-mobile-shopping-apps-in-southeast-asia-according-to-market-survey-by-iprice-group-and-app-annie/
 
 Müller, J. (n.d.). Topic: Smartphones in Singapore. Retrieved August 06, 2020, from https://www.statista.com/topics/5842/smartphones-in-singapore/
 
