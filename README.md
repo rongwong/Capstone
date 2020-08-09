@@ -61,10 +61,11 @@ Due to size, my dataset is found here:
 refer to Google Drive: https://drive.google.com/file/d/16sCyrxE5CGXtM0Qmvhhg3xhic-s6-haR/view?usp=sharing
 
 Please find Image Datasets here:
-CK+ : http://www.jeffcohn.net/resources/
-KDEF: https://www.kdef.se/
-FER-2013: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-GENKI-4K: https://inc.ucsd.edu/mplab/wordpress/index.html%3Fp=398.html
+
+- CK+ : http://www.jeffcohn.net/resources/
+- KDEF: https://www.kdef.se/
+- FER-2013: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+- GENKI-4K: https://inc.ucsd.edu/mplab/wordpress/index.html%3Fp=398.html
 
 
 ### Datasets References and Acknowledgements:
