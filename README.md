@@ -1,6 +1,10 @@
 # Emotion Detection on CNN
 
 
+![Emotion_to_ratings](https://github.com/rongwong/capstone_cnn_emotion_to_ratings/blob/master/images/emotion_to_ratings.png?raw=true)
+
+
+
 ## Executive Summary
 
 According to Statista, Singapore has over 4.65M smartphone users (i.e over 90% of its population) with Apple's share of mobile devices to be at 33.6% of the marketshare. This plays to the tune of .. 1.6M Apple smartphone users in Singapore alone and large market for profit for Apple's App Store.
